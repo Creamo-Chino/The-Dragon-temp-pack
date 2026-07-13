@@ -1,0 +1,1 @@
+tellraw @a {"text":"[MOTD] The Dragon temp pack loaded.","color":"yellow"}
